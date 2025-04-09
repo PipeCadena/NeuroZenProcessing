@@ -1,4 +1,6 @@
 /ParticipantsSet
 /.venv
 /.venv/*
+/Preprocessed
+/Connectivity_Outputs
 /images
